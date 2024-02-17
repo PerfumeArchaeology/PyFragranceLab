@@ -24,6 +24,6 @@ An objective function (objective) is defined, which calculates the squared diffe
 Initial weights for the materials are set (initial_weights).
 The optimization algorithm (minimize) is used to find the weights that minimize the objective function.
 The optimized weights are extracted and printed.
-As for the title for a text file containing this code, you could choose something like "fragrance_optimization.py" to reflect the content of the code. This title indicates that the file contains Python code related to optimizing fragrance formulations.
+
 
 
